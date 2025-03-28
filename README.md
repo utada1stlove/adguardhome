@@ -1,4 +1,4 @@
-# richang
+# adguardhome
 
 本仓库是为了方便自己使用adguardhome规则，仅限国内规则
 
